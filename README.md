@@ -1,7 +1,7 @@
 
 Website: [https://alexyu.net](alexyu.net)
 
-![](https://github-readme-stats.vercel.app/api?username=chavinlo&show_icons=true&theme=neon&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=sxyu&show_icons=true&theme=neon&rank_icon=github)
 
 Discord: @doriath0
 <!--
