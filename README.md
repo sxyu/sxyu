@@ -1,5 +1,9 @@
-### Hi there 👋
 
+Website: [https://alexyu.net](alexyu.net)
+
+![](https://github-readme-stats.vercel.app/api?username=chavinlo&show_icons=true&theme=neon&rank_icon=github)
+
+Discord: @doriath0
 <!--
 **sxyu/sxyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
