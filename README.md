@@ -1,5 +1,5 @@
 
-Website: [https://alexyu.net](alexyu.net)
+Website: [https://alexyu.net](https://alexyu.net)
 
 ![](https://github-readme-stats.vercel.app/api?username=sxyu&show_icons=true&theme=neon&rank_icon=github)
 
